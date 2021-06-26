@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pcsteppan
+- 👋 Hi, I’m Patrick
 - 👀 I’m interested in ...
   + Generative Systems
   + Creative Coding
