@@ -8,7 +8,8 @@
 - 🌱 I’m currently learning ...
   + React
   + TypeScript
-  + Risograph Printing
+  + Rust
+  + Pen plotting
 
 - 📫 How to reach me ...
   + Through my [contact form](https://patricksteppan.com/contact/)
