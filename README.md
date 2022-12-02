@@ -10,6 +10,7 @@
   + TypeScript
   + Rust
   + Pen plotting
+  + Low-level audio synthesis
 
 - 📫 How to reach me ...
   + Through my [contact form](https://patricksteppan.com/contact/)
